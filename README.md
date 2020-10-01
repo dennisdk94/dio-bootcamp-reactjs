@@ -9,4 +9,6 @@
 =================
 <!--ts-->
    * [Recriando a página inicial do instagram](https://github.com/dennisdk94/dio-bootcamp-reactjs/tree/master/digital-insta)
+   * [Recriando a interface do Netflix](https://github.com/dennisdk94/dio-bootcamp-reactjs/tree/master/clone-netflix)
+   * [Desenvolvendo jogo da memória com HTML, CSS e JavaScript](https://github.com/dennisdk94/dio-bootcamp-reactjs/tree/master/jogo-memoria)
 <!--te-->
